@@ -16,7 +16,7 @@
 
 #define LOG_TAG "CHARGER_TOUCH"
 #include <hardware_legacy/uevent.h>
-#include <utils/Log.h>
+#include <log/log.h>
 #include <fcntl.h>
 #include <string.h>
 
